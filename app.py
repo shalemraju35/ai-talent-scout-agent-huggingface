@@ -6,7 +6,7 @@ import re
 import os
 
 # ====================== API KEY ======================
-genai.configure(api_key=os.getenv("AIzaSyBvjm9JcUCJ195WsAr-PqJiCPWTB0Ipymk"))
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 with open("candidates.json", "r", encoding="utf-8") as f:
     CANDIDATES = json.load(f)[:12]
