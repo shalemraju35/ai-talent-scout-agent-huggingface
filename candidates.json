@@ -1,0 +1,14 @@
+[
+  {"name": "Priya Sharma", "title": "Senior Backend Engineer", "location": "Hyderabad", "skills": ["Python", "Django", "AWS", "PostgreSQL"], "experience": "6 years"},
+  {"name": "Rahul Verma", "title": "Full Stack Developer", "location": "Bangalore", "skills": ["Python", "React", "Node.js"], "experience": "4 years"},
+  {"name": "Ananya Rao", "title": "Machine Learning Engineer", "location": "Hyderabad", "skills": ["Python", "PyTorch", "LLMs"], "experience": "5 years"},
+  {"name": "Arjun Reddy", "title": "Software Engineer", "location": "Hyderabad", "skills": ["Java", "Spring Boot"], "experience": "3 years"},
+  {"name": "Sneha Patel", "title": "Data Scientist", "location": "Bangalore", "skills": ["Python", "SQL", "Pandas"], "experience": "4 years"},
+  {"name": "Vikram Singh", "title": "DevOps Engineer", "location": "Hyderabad", "skills": ["AWS", "Kubernetes", "Docker"], "experience": "7 years"},
+  {"name": "Meera Iyer", "title": "Backend Developer", "location": "Chennai", "skills": ["Python", "FastAPI"], "experience": "5 years"},
+  {"name": "Karthik Rao", "title": "AI Engineer", "location": "Hyderabad", "skills": ["Python", "LangChain"], "experience": "3 years"},
+  {"name": "Nisha Menon", "title": "Frontend Engineer", "location": "Bangalore", "skills": ["React", "TypeScript"], "experience": "4 years"},
+  {"name": "Pooja Deshmukh", "title": "Full Stack Developer", "location": "Pune", "skills": ["Python", "Django", "React"], "experience": "2 years"},
+  {"name": "Rohan Kapoor", "title": "Software Developer", "location": "Hyderabad", "skills": ["Java", "Spring"], "experience": "5 years"},
+  {"name": "Lavanya Reddy", "title": "ML Engineer", "location": "Bangalore", "skills": ["Python", "PyTorch"], "experience": "4 years"}
+]
